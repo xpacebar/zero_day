@@ -1,1 +1,3 @@
-The inner directory
+#!/bin/bash
+the inner directory
+
